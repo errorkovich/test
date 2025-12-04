@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\пк\\Desktop\\защита ИБ\\GeneralDeptTerminal\\GeneralDeptTerminal.csproj": {}
+    "C:\\Users\\User\\Downloads\\popka\\GeneralDeptTerminal\\GeneralDeptTerminal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\пк\\Desktop\\защита ИБ\\GeneralDeptTerminal\\GeneralDeptTerminal.csproj": {
+    "C:\\Users\\User\\Downloads\\popka\\GeneralDeptTerminal\\GeneralDeptTerminal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\пк\\Desktop\\защита ИБ\\GeneralDeptTerminal\\GeneralDeptTerminal.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Downloads\\popka\\GeneralDeptTerminal\\GeneralDeptTerminal.csproj",
         "projectName": "GeneralDeptTerminal",
-        "projectPath": "C:\\Users\\пк\\Desktop\\защита ИБ\\GeneralDeptTerminal\\GeneralDeptTerminal.csproj",
-        "packagesPath": "C:\\Users\\пк\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\пк\\Desktop\\защита ИБ\\GeneralDeptTerminal\\obj\\",
+        "projectPath": "C:\\Users\\User\\Downloads\\popka\\GeneralDeptTerminal\\GeneralDeptTerminal.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Downloads\\popka\\GeneralDeptTerminal\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\пк\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net6.0-windows"

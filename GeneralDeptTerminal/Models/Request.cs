@@ -14,6 +14,9 @@ namespace GeneralDeptTerminal.Models
         public DateTime? VisitDate { get; set; }
         public TimeSpan? VisitTime { get; set; }
 
+        public DateTime? ActualVisitStartTime { get; set; }
+        public DateTime? ActualVisitEndTime { get; set; }
+
         public List<Applicant> Applicants { get; set; } = new();
         public int AttachedFilesCount { get; set; }
 

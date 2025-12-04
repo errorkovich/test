@@ -12,3 +12,17 @@ C:\Users\пк\Desktop\защита ИБ\GeneralDeptTerminal\obj\Debug\net6.0-win
 C:\Users\пк\Desktop\защита ИБ\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.pdb
 C:\Users\пк\Desktop\защита ИБ\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.genruntimeconfig.cache
 C:\Users\пк\Desktop\защита ИБ\GeneralDeptTerminal\obj\Debug\net6.0-windows\ref\GeneralDeptTerminal.dll
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\bin\Debug\net6.0-windows\GeneralDeptTerminal.exe
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\bin\Debug\net6.0-windows\GeneralDeptTerminal.deps.json
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\bin\Debug\net6.0-windows\GeneralDeptTerminal.runtimeconfig.json
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\bin\Debug\net6.0-windows\GeneralDeptTerminal.dll
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\bin\Debug\net6.0-windows\GeneralDeptTerminal.pdb
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.AssemblyInfo.cs
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.dll
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\refint\GeneralDeptTerminal.dll
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.pdb
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\GeneralDeptTerminal.genruntimeconfig.cache
+C:\Users\User\Downloads\popka\GeneralDeptTerminal\obj\Debug\net6.0-windows\ref\GeneralDeptTerminal.dll
